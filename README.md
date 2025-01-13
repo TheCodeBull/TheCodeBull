@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on BTS on Logic+Math of Complex Programming
 - 📫 You can reach me at - https://www.linkedin.com/in/harshal-ingole-460048282/
 - 😄 Pronouns: Doesn't Matter
-- ⚡ Fun fact: "You Can Learn Anything" , even if you don't know the spelling of "Anything".👀
+- ⚡ Fun fact: "You Can Learn Anything" , even if you can't spell "Anything".👀
 
 <!---
 TheCodeBull/TheCodeBull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
