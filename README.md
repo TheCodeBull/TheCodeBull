@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheCodeBull
 - 👀 I’m interested in Logic and Mathematics
-- 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on BTS on Logic+Math of Complex Programming
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collabrate on Complex programming projects 
 - 📫 You can reach me at - https://www.linkedin.com/in/harshal-ingole-460048282/
 - 😄 Pronouns: Doesn't Matter
 - ⚡ Fun fact: "You Can Learn Anything" , even if you can't spell "Anything".👀
